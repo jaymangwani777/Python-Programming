@@ -17,3 +17,4 @@ def print_directory_contents(path='/'):
 if __name__ == "__main__":
     # Change '.' to any directory path you want to inspect
     print_directory_contents('.')
+ 
