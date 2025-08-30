@@ -5,10 +5,10 @@
 # <|Date|>
 # '''
 
-letter=input( '''
+letter=( '''
  Dear <|Name|>,
  You are selected!
  <|Date|>
  ''')
 
-print(letter)
+print(letter.replace ('<|Name|>', 'Jay').replace('<|Date|>', '27/09/2001') )

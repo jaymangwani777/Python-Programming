@@ -1,7 +1,7 @@
 name='jaymang'
 
 # print(name[1:3])
-print(name[:6])
+print(name[:7])
 
 word = "amazing"
 print(word[1: 6: 2]) # "mzn"
