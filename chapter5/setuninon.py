@@ -4,4 +4,6 @@ s2={9,56,48,2358}
 print(s1.union(s2))
 # we can say uninon will merge two sets
 print(s1.intersection(s2))
+# intersection will give you common values of both the sets
+
 
